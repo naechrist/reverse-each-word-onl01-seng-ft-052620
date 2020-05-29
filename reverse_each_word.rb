@@ -7,3 +7,4 @@ new_array = string.map do |word|
 end
 new_array
 end
+
