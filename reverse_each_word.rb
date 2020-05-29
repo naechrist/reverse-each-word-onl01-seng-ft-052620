@@ -5,4 +5,5 @@ def reverse_each_word(sentence)
 new_array = string.map do |word|
   word.reverse
 end
+new_array
 end
